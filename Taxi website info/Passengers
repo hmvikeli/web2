@@ -1,0 +1,36 @@
+#Passengers{
+link rel="stylesheet" href="css/style.css
+}
+
+h1 {
+border:  #ffc200;
+
+}
+
+body {
+  background-image: url("fi.jpg");
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.spacer {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.main {
+    background-color: #ffc200;
+}
+
+/*Header Section*/
+
+.header {
+  padding: 30px 0px 40px;
+  margin-left: 50px;
+  margin-right: 50px;

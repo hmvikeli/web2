@@ -1,0 +1,77 @@
+body{
+background-color:#87CEFA;
+}
+
+
+#header {
+background-color: #808080;
+height:200px;
+width:200px;
+}
+
+
+.span{
+text-color: #FF0000;
+
+a{
+text-decoration: auto;
+color: black;
+}
+
+h2{
+color:red;
+text-decoration: underline;
+}
+
+.Safety and friendly operations {
+text-decoration: underline;
+}
+
+.Objectives of the TaxiGo {
+text-decoration: underline;
+}
+
+#container{
+background-color:#87CEFA;
+width: auto;
+margin-left: auto;
+margin-right: auto;
+}
+
+#content{
+padding: 10px;
+}
+
+#nav {
+width: 180px;
+float: left;
+}
+
+#nav ul{
+font-weight: bold;
+}
+
+#main {
+width: 600px;
+float: right;
+}
+
+footer {
+height:100px;
+Width:100%;
+clear: both;
+padding: 10px;
+background-color: #808080;
+color: white;
+text-align: left;
+
+}
+
+h4{
+   color:red;
+}
+
+
+.red{
+  color:red;
+}

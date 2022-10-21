@@ -1,0 +1,10 @@
+h1 {
+border: 5px solid pink;
+}
+
+body {
+ background-image: url("Images/stylesheet.css.wave.jpg");
+ background-color: #E2725B;
+border: 5px solid #blue
+}
+
